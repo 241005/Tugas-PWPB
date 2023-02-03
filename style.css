@@ -1,0 +1,31 @@
+#wrapper{
+    margin: auto;
+    width: 545px;
+    height: auto;
+    border: 1px solid black;
+}
+#header{
+    width: 545px;
+    height: 80px;
+    border: 1px solid black;
+    background: linear-gradient(#084fb9,#09b6ad);
+}
+#inner{
+    float: left;
+    margin: 1px;
+    border: 1px solid black;
+    background: linear-gradient(#09b6ad, #62a30d);
+}
+#content{
+    float:left;
+    width: 545px;
+    height: 300px;
+    border: 1px solid black;
+    background: linear-gradient(#09b6ad, #62a30d);
+}
+#footer{
+    clear: both;
+    height: 50px;
+    border: 1px solid blue;
+    background: #62a30d;
+}
